@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - The Bold Media</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>About Us</h1>
+    </header>
+    <section>
+        <p>The Bold Media is an independent journalism platform that brings fearless and unbiased reporting. We believe in truth and impact.</p>
+        <p>Follow us on Instagram: <a href="https://www.instagram.com/boldmediaindia/" target="_blank">boldmediaindia</a></p>
+    </section>
+</body>
+</html>
